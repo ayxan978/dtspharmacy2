@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+ </head>
+ <body>
+  <form id="edit-form">
+   <input name="id" placeholder="ID товара"> <input name="price" placeholder="Новая цена">
+   <button type="submit">Изменить</button>
+  </form>
+  <script>
+  document.getElementById("edit-form").addEventListener("submit", async function(e) {
+    e.preventDefault();
+    const formData = new FormData(this);
+    await fetch("/update_product.php", {
+      method: "POST",
+      body: formData
+    });
+    alert("Цена обновлена");
+  });
+</script>
+ </body>
+</html>
