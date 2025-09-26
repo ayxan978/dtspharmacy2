@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="bg-BG" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dtspharmacybg.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dtspharmacybg.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dtspharmacybg.com/collections/dobavki.atom"/>
+  <title>Pen Peptide</title>
+  <updated>2024-05-21T15:46:33+03:00</updated>
+  <author>
+    <name>Pen Peptide</name>
+  </author>
+  <entry>
+    <id>https://dtspharmacybg.com/products/9281859748165</id>
+    <published>2024-05-21T15:46:33+03:00</published>
+    <updated>2024-05-21T15:46:33+03:00</updated>
+    <link rel="alternate" type="text/html" href="https://dtspharmacybg.com/products/neotad-hranitelna-dobavka"/>
+    <title>NEOTAD - Хранителна добавка | 20 сашета</title>
+    <s:type>NEOTAD</s:type>
+    <s:vendor>Pen Peptide</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0724/1954/1309/files/neo-tad.jpg?v=1753172023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pen Peptide<br>
+        <strong>Type: </strong>NEOTAD<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Основни характеристики:</h2>
+<ul>
+<li>
+<strong>Име на продукта</strong>: NEOTAD Хранителна добавка</li>
+<li>
+<strong>Форма на продукта</strong>: Сашета</li>
+<li>
+<strong>Количество в опаковка</strong>: 20 сашета</li>
+</ul>
+<h2>Описание:</h2>
+<p>NEOTAD е висококачествена хранителна добавка, съдържаща редуциран L-глутатион (сетрия), витамин C, витамин E и селен. Витамин C, витамин E и селенът допринасят за защита на клетките от оксидативен стрес. Тази добавка е подходяща при случаи на намален хранителен прием или повишена нужда от тези елементи.</p>
+<h3>Съставки:</h3>
+<ul>
+<li><strong>Фруктоза</strong></li>
+<li><strong>Редуциран L-глутатион (сетрия)</strong></li>
+<li><strong>Витамин C (L-аскорбинова киселина)</strong></li>
+<li>
+<strong>Подсладители</strong>: изомалт, аспартам, сукралоза</li>
+<li><strong>Грейпфрутов аромат</strong></li>
+<li><strong>Витамин E (d,l-алфа-токоферил ацетат)</strong></li>
+<li>
+<strong>Антислепващ агент</strong>: силициев диоксид</li>
+<li><strong>Натриев бикарбонат</strong></li>
+<li><strong>L-селенометионин</strong></li>
+</ul>
+<h3>Хранителни характеристики:</h3>
+<p>Средни стойности за 1 саше и % от препоръчителния дневен прием (ПДП):</p>
+<ul>
+<li>
+<strong>Редуциран L-глутатион (сетрия)</strong>: 250 mg</li>
+<li>
+<strong>Витамин C</strong>: 250 mg (313% ПДП)</li>
+<li>
+<strong>Витамин E</strong>: 36 mg (300% ПДП)</li>
+<li>
+<strong>Селен (L-селенометионин)</strong>: 20 mcg (36,4% ПДП)</li>
+</ul>
+<h2>Начин на употреба:</h2>
+<p>Препоръчва се приемането на 1 саше дневно, като съдържанието се разтваря директно в устата.</p>
+<h4>Внимание:</h4>
+<ul>
+<li>Да се съхранява на място, недостъпно за деца.</li>
+<li>Да не се превишава препоръчителната дневна доза.</li>
+<li>Добавката не трябва да се използва като заместител на разнообразното и балансирано хранене и здравословния начин на живот.</li>
+<li>Прекомерната консумация може да има слабителен ефект.</li>
+</ul>
+<h4>Съхранение:</h4>
+<p>Съхранявайте на хладно място, далеч от източници на топлина. Срок на годност при ненарушена опаковка: 36 месеца.</p>
+<p>20 сашета. Нетно тегло: 40 g.</p>
+<p>NEOTAD е идеалният избор за подкрепа на вашето здраве с мощни антиоксиданти и основни съставки, които защитават клетките ви и подпомагат общото благополучие.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glutathione</s:tag>
+    <s:tag>neotad</s:tag>
+    <s:tag>неотад</s:tag>
+    <s:tag>хранителна добавка neotad</s:tag>
+    <s:variant>
+      <id>https://dtspharmacybg.com/products/9281859748165</id>
+      <title>Default Title</title>
+      <s:price currency="BGN">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dtspharmacybg.com/products/8778825564485</id>
+    <published>2024-01-10T20:27:58+02:00</published>
+    <updated>2024-01-10T20:27:58+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://dtspharmacybg.com/products/isrib-nootropic-supplement"/>
+    <title>Добавка ISRIB (Nootropic Supplement)</title>
+    <s:type>ISRIB Nootropic добавка</s:type>
+    <s:vendor>Pen Peptide</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0724/1954/1309/files/isrib.jpg?v=1753172575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pen Peptide<br>
+        <strong>Type: </strong>ISRIB Nootropic добавка<br>
+        <strong>Price: </strong>
+            115.00 - 350.00
+            <a href="https://dtspharmacybg.com/products/isrib-nootropic-supplement">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><span style="font-weight: 400;">Какво е ISRIB (Integrated Stress Response Inhibitor)?</span></h2>
+<p><span style="font-weight: 400;">ISRIB (Integrated Stress Response Inhibitor) е един от най-новите продукти в света на ноотропните добавки, обещаващ преобразяване на начина, по който подхождаме към мозъчното здраве и когнитивните функции. ISRIB е във фокуса на съвременните научни изследвания, предоставяйки вълнуващи перспективи в областта на неврологията и психофармакологията.</span></p>
+<h2><span style="font-weight: 400;">Ключови характеристики и ползи според изследване на ISRIB:</span></h2>
+<ul>
+<li style="font-weight: 400;">
+<b>Уникално действие и влияние на клетъчно ниво:</b><span style="font-weight: 400;"> ISRIB работи чрез модулиране на интегрираната стресова реакция (ISR) в клетките. Това води до потенциално подобрение на клетъчните функции и увеличаване на цялостната когнитивна ефективност.</span>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;">
+<b>Потенциал за подобряване на когнитивните функции:</b><span style="font-weight: 400;"> Изследвания показват, че ISRIB демонстрира значителни ефекти върху паметта, ученето и концентрацията, което го прави обект на интерес в контекста на изследвания, свързани с менталната яснота и фокус.</span>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;">
+<b>Приложение в неврологичните заболявания:</b><span style="font-weight: 400;"> Възможностите на ISRIB да влияе на неврологичния “ремонт” и регенерация предлагат нови перспективи за лечение на различни мозъчни заболявания или увреждания.</span>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;">
+<b>Борба със стреса и анксиозността:</b><span style="font-weight: 400;"> ISRIB се изследва за своя потенциал да облекчава симптомите на стрес и анксиозност, отваряйки пътя за по-ефективни стратегии за управление на психичното здраве.</span>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;">
+<b>Антидепресантни ефекти:</b><span style="font-weight: 400;"> Някои изследвания показват, че ISRIB може да има антидепресивни свойства.</span>
+</li>
+</ul>
+<h2><span style="font-weight: 400;">Прием и дозировка на ISRIB:</span></h2>
+<p dir="ltr"><span>Примерна схема за изследователски протокол:</span></p>
+<p dir="ltr"><strong>ISRIB 5mg:</strong><span> Протоколова започва с прием на 1 капсула дневно в рамките на 10 дни. Впоследствие, при необходимост, честотата може да бъде намалена до 1 капсула през ден, в зависимост от наблюдаваните реакции и цели на потребителя.</span></p>
+<p dir="ltr"><span><strong>ISRIB 10mg:</strong> </span><span>Протокола започва с прием на 1 капсула дневно за 5 до 7 дни. След този период е препоръчително адаптиране към схема с прием по 1 капсула през ден. При завършване на 60-дневен цикъл (60 капсули), се прави пауза със сходна продължителност на използвания период, в зависимост от целите на изследването.</span></p>
+<p dir="ltr"><span><strong>ISRIB 30mg:</strong> Поради високата концентрация, капсулите от 30mg се използват само в по-специфични протоколи. Дозировката обикновено се изготвя индивидуално и често изисква предварителна консултация със специалист в съответната област.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>isrib</s:tag>
+    <s:variant>
+      <id>https://dtspharmacybg.com/products/8778825564485</id>
+      <title>ISRIB 5mg (60 capsules)</title>
+      <s:price currency="BGN">115.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dtspharmacybg.com/products/8778825564485</id>
+      <title>ISRIB 10mg (60 capsules)</title>
+      <s:price currency="BGN">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dtspharmacybg.com/products/8778825564485</id>
+      <title>ISRIB 30mg (60 capsules)</title>
+      <s:price currency="BGN">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
